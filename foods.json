@@ -1,0 +1,423 @@
+{
+  "foods" : [
+
+    {
+      "restauarant" : "TFC",
+      "name" : "10 chicken nuggets",
+      "description" : "Deep fried minced chciken covered in breadcrumbs ",
+      "Calories" : "200",
+      "Price" : "£5",
+      "ImageUrl" : "",
+      "Type" : "Main"
+    },
+
+  {
+    "restauarant" : "TFC",
+    "name" : "Crispy chicken burger",
+    "description" : "crispy chicken breast fillet  served with lettuce ,mayo and two brioche buns",
+    "Calories" : "484",
+    "Price" : "£6.50",
+    "ImageUrl" : "",
+    "Type" : "Main"
+  },
+
+  {
+    "restauarant" : "TFC",
+    "name" : "Bacon cheeseburger",
+    "description" : "Regular cheese burger served with bacon",
+    "Calories" : "500",
+    "Price" : "£7",
+    "ImageUrl" : "",
+    "Type" : "Main"
+  },
+
+  {
+    "restauarant" : "TFC",
+    "name" : "Cheeseburger",
+    "description" : "Beef patty with cheese and two brioche buns",
+    "Calories" : "484",
+    "Price" : "£6.50",
+    "ImageUrl" : "",
+    "Type" : "Main"
+  },
+
+  {
+    "restauarant" : "TFC",
+    "name" : "potato fries",
+    "description" : "Fried finely cut potatoes",
+    "Calories" : "300",
+    "Price" : "£3",
+    "ImageUrl" : "",
+    "Type" : "Main"
+  },
+
+  {"restauarant" : "TFC",
+  "name" : "Apple pie",
+  "description" : "Crispy on the ouside and filled with hot apple pie filling",
+  "Calories" : "200",
+  "Price" : "£5.50",
+  "ImageUrl" : "",
+  "Type" : "Desert"
+},
+
+{
+  "restauarant" : "TFC",
+  "name" : "Glazed donut",
+  "description" : "Donut covered in glaze made of milk, sugar and vanilla",
+  "Calories" : "200",
+  "Price" : "£2.00",
+  "ImageUrl" : "",
+  "Type" : "Desert"
+},
+
+{
+  "restauarant" : "TFC",
+  "name" : "Oreo ice cream",
+  "description" : "Ice cream with oreo topping",
+  "Calories" : "500",
+  "Price" : "£5.00",
+  "ImageUrl" : "",
+  "Type" : "Desert"
+},
+
+{
+  "restauarant" : "TFC",
+  "name" : "Coke",
+  "description" : "carbonated soft drink",
+  "Calories" : "70",
+  "Price" : "£1.50",
+  "ImageUrl" : "",
+  "Type" : "Drinks"
+},
+
+{
+  "restauarant" : "TFC",
+  "name" : "Sprite",
+  "description" : "carbonated soft drink",
+  "Calories" : "70",
+  "Price" : "£1.50",
+  "ImageUrl" : "",
+  "Type" : "Drinks"
+},
+
+{
+  "restauarant" : "TFC",
+  "name" : "Fanta",
+  "description" : "carbonated soft drink",
+  "Calories" : "70",
+  "Price" : "£1.50",
+  "ImageUrl" : "",
+  "Type" : "Drinks"
+},
+
+{
+  "restauarant" : "TFC",
+  "name" : "vanilla milkshake",
+  "description" : "Vanilla flavored milkshake,milk and vanilla flavored ice cream",
+  "Calories" : "150",
+  "Price" : "£2.50",
+  "ImageUrl" : "",
+  "Type" : "Drinks"
+},
+
+{
+  "restauarant" : "TFC",
+"name" : "Starwberry milkshake",
+"description" : "Strawberry flavored milkshake,milk and Strawberry flavored ice cream",
+"Calories" : "150",
+"Price" : "£2.50",
+"ImageUrl" : "",
+"Type" : "Drinks"
+},
+
+{
+  "restauarant" : "Peri - peri chicken",
+  "name" : :"10 peri-peri wings",
+  "description" : "10 spicy seasoned wings tossed in peri-peri sauce",
+  "Calories" : "790",
+  "Price" : "£10.00",
+  "ImageUrl" : "",
+  "Type" : "Main"
+},
+
+{
+  "restauarant" : "Peri - peri chicken",
+  "name" : :"15 peri-peri wings",
+  "description" : "15 spicy seasoned wings tossed in peri-peri sauce",
+  "Calories" : "1190",
+  "Price" : "£15.00",
+  "ImageUrl" : "",
+  "Type" : "Main"
+},
+
+{
+  "restauarant" : "Peri - peri chciken",
+  "name" : :"half peri-peri chicken ",
+  "description" : "Grilled  half chciken seasoned with peri-peri sauce",
+  "Calories" : "350",
+  "Price" : "£6.00",
+  "ImageUrl" : "",
+  "Type" : "Main"
+},
+
+{
+  "restauarant" : "Peri - peri chciken",
+  "name" : :"whole peri-peri chicken ",
+  "description" : "Grilled  whole chciken seasoned with peri-peri sauce",
+  "Calories" : "700",
+  "Price" : "£12.00",
+  "ImageUrl" : "",
+  "Type" : "Main"
+},
+
+{
+  "restauarant" : "Peri - peri chciken",
+  "name" : :"quarter peri-peri chicken ",
+  "description" : "Grilled  quarter chicken seasoned with peri-peri sauce",
+  "Calories" : "125",
+  "Price" : "£3.00",
+  "ImageUrl" : "",
+  "Type" : "Main"
+},
+
+{
+  "restauarant" : "Peri - peri chciken",
+  "name" : :"peri-peri fries ",
+  "description" : "Oven baked fried tossed in salt and chilli powder",
+  "Calories" : "300",
+  "Price" : "£3.00",
+  "ImageUrl" : "",
+  "Type" : "Sides"
+},
+
+{
+  "restauarant" : "Peri - peri chciken",
+  "name" : :"Halloumi",
+  "description" : "Grilled halloumi cheese",
+  "Calories" : "250",
+  "Price" : "£5.00",
+  "ImageUrl" : "",
+  "Type" : "Sides"
+},
+
+{
+  "restauarant" : "Peri - peri chciken",
+  "name" : :"Garlic bread",
+  "description" : "grilled portuguese roll with garlic butter ",
+  "Calories" : "450",
+  "Price" : "£5.00",
+  "ImageUrl" : "",
+  "Type" : "Sides"
+},
+
+{
+  "restauarant" : "Peri - peri chciken",
+  "name" : "Coke",
+  "description" : "carbonated soft drink",
+  "Calories" : "70",
+  "Price" : "£1.50",
+  "ImageUrl" : "",
+  "Type" : "Drinks"
+},
+
+{
+  "restauarant" : "Peri - peri chciken",
+  "name" : "Sprite",
+  "description" : "carbonated soft drink",
+  "Calories" : "70",
+  "Price" : "£1.50",
+  "ImageUrl" : "",
+  "Type" : "Drinks"
+},
+
+{
+  "restauarant" : "Peri - peri chciken",
+  "name" : "Fanta",
+  "description" : "carbonated soft drink",
+  "Calories" : "70",
+  "Price" : "£1.50",
+  "ImageUrl" : "",
+  "Type" : "Drinks"
+},
+
+{
+  "restauarant" : "Peri - peri chciken",
+  "name" : "Still water",
+  "description" : "chilled and distilled water",
+  "Calories" : "0",
+  "Price" : "£1.00",
+  "ImageUrl" : "",
+  "Type" : "Drinks"
+},
+
+{
+  "restauarant" : "Peri - peri chciken",
+  "name" : "Still water",
+  "description" : "chilled and distilled water",
+  "Calories" : "0",
+  "Price" : "£1.00",
+  "ImageUrl" : "",
+  "Type" : "Drinks"
+},
+
+{
+  "restauarant" : "Peri - peri chciken",
+  "name" : "Sparkling water",
+  "description" : "water containing dissolved carbon dioxide",
+  "Calories" : "0",
+  "Price" : "£1.00",
+  "ImageUrl" : "",
+  "Type" : "Drinks"
+},
+
+{
+  "restaurant" : "Pizza inn",
+  "name" : "pepperoni pizza";
+  "description" : "flattened bread dough with a tomato base and topped with pepperoni",
+  "Calories" : "1200",
+  "Price" : "£15",
+  "ImageUrl" : "",
+  "Type" : "Main"
+},
+
+{
+  "restaurant" : "Pizza inn",
+  "name" : "Ranch bbq pizza";
+  "description" : "flattened bread dough with a bbq base and topped with pepperoni,chicken,minced beef,bacon and mozarella cheese",
+  "Calories" : "1200",
+  "Price" : "£15",
+  "ImageUrl" : "",
+  "Type" : "Main"
+},
+
+{
+  "restaurant" : "Pizza inn",
+  "name" : "veggie pizza";
+  "description" : "flattened bread dough with a tomato base and topped with jalapeno, red peppers, green peppers, olives,mozarella cheese",
+  "Calories" : "800",
+  "Price" : "£10",
+  "ImageUrl" : "",
+  "Type" : "Main"
+},
+
+{
+  "restaurant" : "Pizza inn",
+  "name" : "Spicy chicken pizza";
+  "description" : "flattened bread dough with a tomato base and topped with chicken,mozarella cheese,jalapeno",
+  "Calories" : "1200",
+  "Price" : "£15",
+  "ImageUrl" : "",
+  "Type" : "Main"
+},
+
+{
+  "restaurant" : "Pizza inn",
+  "name" : "Spicy meat feast pizza";
+  "description" : "flattened bread dough with a tomato base and topped with pepperoni, minced beef, sausages,mozarella cheese,jalapeno",
+  "Calories" : "1200",
+  "Price" : "£15",
+  "ImageUrl" : "",
+  "Type" : "Main"
+},
+
+{
+  "restaurant" : "Pizza inn",
+  "name" : "Magherita pizza";
+  "description" : "flattened bread dough with a tomato base and topped with mozarella cheese",
+  "Calories" : "1200",
+  "Price" : "£10",
+  "ImageUrl" : "",
+  "Type" : "Main"
+},
+
+{
+  "restauarant" : "Pizza inn",
+  "name" : "garlic pizza bread",
+  "description" : "garlic bread with cheese ",
+  "Calories" : "200",
+  "Price" : "£3.50",
+  "ImageUrl" : "",
+  "Type" : "Sides"
+},
+
+{
+  "restauarant" : "Pizza inn",
+  "name" : "chocolate pockets",
+  "description" : "Pastry filled with chocolate sauce and covered with powdered sugar",
+  "Calories" : "250",
+  "Price" : "£3.50",
+  "ImageUrl" : "",
+  "Type" : "Sides"
+},
+
+{
+  "restauarant" : "Pizza inn",
+  "name" : "potato wedges",
+  "description" : "oven baked and seasoned potato wedges",
+  "Calories" : "150",
+  "Price" : "£3.50",
+  "ImageUrl" : "",
+  "Type" : "Sides"
+},
+
+{
+  "restauarant" : "Pizza inn",
+  "name" : "Coke",
+  "description" : "carbonated soft drink",
+  "Calories" : "70",
+  "Price" : "£1.50",
+  "ImageUrl" : "",
+  "Type" : "Drinks"
+},
+
+{
+  "restauarant" : "Pizza inn",
+  "name" : "Sprite",
+  "description" : "carbonated soft drink",
+  "Calories" : "70",
+  "Price" : "£1.50",
+  "ImageUrl" : "",
+  "Type" : "Drinks"
+},
+
+{
+  "restauarant" : "Pizza inn",
+  "name" : "Fanta",
+  "description" : "carbonated soft drink",
+  "Calories" : "70",
+  "Price" : "£1.50",
+  "ImageUrl" : "",
+  "Type" : "Drinks"
+},
+
+{
+  "restauarant" : "Pizza inn",
+  "name" : "Still water",
+  "description" : "chilled and distilled water",
+  "Calories" : "0",
+  "Price" : "£1.00",
+  "ImageUrl" : "",
+  "Type" : "Drinks"
+},
+
+{
+  "restauarant" : "Pizza inn",
+  "name" : "Still water",
+  "description" : "chilled and distilled water",
+  "Calories" : "0",
+  "Price" : "£1.00",
+  "ImageUrl" : "",
+  "Type" : "Drinks"
+},
+
+{
+  "restauarant" : "Pizza inn",
+  "name" : "Sparkling water",
+  "description" : "water containing dissolved carbon dioxide",
+  "Calories" : "0",
+  "Price" : "£1.00",
+  "ImageUrl" : "",
+  "Type" : "Drinks"
+}
+  ]
+}
